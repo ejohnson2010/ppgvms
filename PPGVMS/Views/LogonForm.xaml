@@ -1,0 +1,29 @@
+﻿<Window x:Class="PPGVMS.Views.LogonForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PPGVMS.Views"
+        mc:Ignorable="d"
+        Title="PPGVMS Logon" Height="95" Width="375" Icon="/PPGVMS;component/Resources/lock.png" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" ShowInTaskbar="False">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition Width="250" />
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Librarian Barcode:" Grid.Row="0" Grid.Column="0"/>
+        <TextBox Name="txtUserName" KeyDown="txtUserName_KeyDown" GotFocus="txtUserName_GotFocus" LostFocus="txtUserName_LostFocus" Height="20" HorizontalAlignment="Left" Width="220" Grid.Row="0" Grid.Column="1"/>
+
+        <StackPanel Orientation="Horizontal" Margin="5,5,5,5" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Button Name="btnCancel" Content="Cancel" IsCancel="True" Width="65"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

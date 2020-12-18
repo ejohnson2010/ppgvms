@@ -1,0 +1,144 @@
+﻿<Window x:Class="PPGVMS.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PPGVMS"
+        mc:Ignorable="d"
+        Title="Pikes Peak Gamers Vault Management System" Height="770" Width="1005" Icon="/PPGVMS;component/Resources/vault.png" Loaded="Window_Loaded">
+    
+    <Window.InputBindings>
+        <KeyBinding Key="L" Modifiers="Ctrl" Command="{Binding LogoutCommand}" />
+        <KeyBinding Key="O" Modifiers="Ctrl" Command="{Binding LoadCheckoutCommand}" />
+        <KeyBinding Key="I" Modifiers="Ctrl" Command="{Binding LoadCheckinCommand}" />
+    </Window.InputBindings>
+    
+    <DockPanel Name="mainPane">
+        <!--<Menu Name="mainMenu" DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="E_xit" Command="{Binding ExitCommand}"/>
+            </MenuItem>
+        </Menu>-->
+        <DockPanel HorizontalAlignment="Left" DockPanel.Dock="Top" LastChildFill="True" Width="auto">
+            <ToolBarTray DockPanel.Dock="Left">
+                <ToolBar>
+                    <Button Name="btnCheckOut" ToolTip="Ctrl+O" Command="{Binding LoadCheckoutCommand}" IsEnabled="{Binding SignedIn}" IsTabStop="False">
+                        <StackPanel Orientation="Horizontal"  >
+                            <Image Source="/Resources/checkout.png" Width="32" Height="32" Margin="5,0,0,0"/>
+                            <TextBlock VerticalAlignment="Center" Text="Check Out"/>
+                        </StackPanel>
+                    </Button>
+                    <Button Name="btnCheckIn" ToolTip="Ctrl+I" Command="{Binding LoadCheckinCommand}" IsEnabled="{Binding SignedIn}" IsTabStop="False">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/Resources/checkin.png" Width="32" Height="32" Margin="5,0,0,0"/>
+                            <TextBlock VerticalAlignment="Center" Text="Check In"/>
+                        </StackPanel>
+                    </Button>
+                    <Button Name="btnLogout" ToolTip="Ctrl+L" Command="{Binding LogoutCommand}" IsEnabled="{Binding SignedIn}" IsTabStop="False">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/Resources/lock.png" Width="32" Height="32" Margin="5,0,0,0"/>
+                            <TextBlock VerticalAlignment="Center" Text="Log Out"/>
+                        </StackPanel>
+                    </Button>
+                    <Label VerticalAlignment="Center" Margin="10,0,0,0">Librarian: </Label>
+                    <Label x:Name="lblCurrentLibrarian" VerticalAlignment="Center" Margin="10,0,0,0" Content="{Binding CurrentLibrarian, Mode=OneWay}" />
+                </ToolBar>
+                
+            </ToolBarTray>
+        </DockPanel>
+        <DockPanel Name="content" Width="auto" LastChildFill="True" HorizontalAlignment="Stretch">
+
+            <StackPanel Orientation="Vertical" Margin="0,0,0,-102.667">
+                <DockPanel Name="userSearch" Height="200" DockPanel.Dock="Left" HorizontalAlignment="Stretch" Margin="10,10,0,0">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="75"/>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition Width="500"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" Width="75" Grid.Column="0" Grid.ColumnSpan="1">User Search:</Label>
+                        <TextBox TabIndex="3" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Width="160" HorizontalAlignment="Left" VerticalAlignment="Center" Name="txtUserSearchName" KeyUp="txtUserSearchName_KeyUp"></TextBox>
+                        <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Height="Auto">
+                            <DataGrid IsTabStop="False" Name="grdUserSearch" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" AutoGenerateColumns="False" Height="175" Width="750" 
+                                      HorizontalAlignment="Left" ItemsSource="{Binding UserSearchData}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="User" Binding="{Binding username}" Width="200"/>
+                                    <DataGridTextColumn Header="User Barcode" Binding="{Binding user_barcode}" Width="125"/>
+                                    <DataGridTextColumn Header="Game Checked Out" Binding="{Binding gamename}" Width="275"/>
+                                    <DataGridTextColumn Header="Game Barcode" Binding="{Binding game_barcode}" Width="125"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </ScrollViewer>
+                    </Grid>
+                </DockPanel>
+                <DockPanel Name="gameSearch" Height="200" DockPanel.Dock="Left" HorizontalAlignment="Stretch" Margin="10,10,0,0">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="80"/>
+                            <ColumnDefinition Width="320"/>
+                            <ColumnDefinition Width="495"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label VerticalAlignment="Center" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">Game Search:</Label>
+                        <TextBox TabIndex="4" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Name="txtGameSearchName" KeyUp="txtGameSearchName_KeyUp" Height="18"  Width="300" />
+                        <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Height="Auto">
+                            <DataGrid IsTabStop="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" Height="150" Width="750" HorizontalAlignment="Left" Name="grdGameSearch" 
+                                      AutoGenerateColumns="False" ItemsSource="{Binding GameSearchData}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Width="300" Binding="{Binding name}" Header="Game"/>
+                                    <DataGridTextColumn Width="70" Binding="{Binding instance}" Header="Instance"/>
+                                    <DataGridTextColumn Width="90" Binding="{Binding status}" Header="Status"/>
+                                    <DataGridTextColumn Width="120" Binding="{Binding location}" Header="Vault Location"/>
+                                    <DataGridTextColumn Width="50" Binding="{Binding sorting_code}" Header="Sort"/>
+                                    <DataGridTextColumn Width="125" Binding="{Binding barcode}" Header="Barcode"/>
+                        </DataGrid.Columns>
+                            </DataGrid>
+                        </ScrollViewer>
+                    </Grid>
+                </DockPanel>
+                <DockPanel Name="checkoutHistory" Height="210" DockPanel.Dock="Bottom" HorizontalAlignment="Stretch" Margin="10,10,0,0">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0">Check Out History</Label>
+                        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Height="Auto">
+                            <DataGrid IsTabStop="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" Width="975" Height="180" 
+                                      HorizontalAlignment="Stretch" Name="grdCheckoutHistory" AutoGenerateColumns="False"
+                                      ItemsSource="{Binding HistoryData}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Width="210" Header="User" Binding="{Binding user_name}"/>
+                                    <DataGridTextColumn Width="210" Header="Game" Binding="{Binding game_name}"/>
+                                    <DataGridTextColumn Width="200" Header="Checkout Time" Binding="{Binding checked_out}"/>
+                                    <DataGridTextColumn Width="200" Header="Checkin Time" Binding="{Binding checked_in}"/>
+                                    <DataGridTextColumn Width="125" Header="Barcode" Binding="{Binding barcode}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </ScrollViewer>
+                    </Grid>
+                </DockPanel>
+            </StackPanel>
+        </DockPanel>
+
+    </DockPanel>
+
+    <!--Start of main form-->
+
+
+</Window>
+
+    

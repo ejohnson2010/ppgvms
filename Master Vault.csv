@@ -1,0 +1,763 @@
+ID|Game ID Location|Type|Vault Location|Name|BarCode|Sorting Code|Year|Owner|Game ID Required
+1|1|standalone|1|1955: The War of Espionage|1-11-00001|19|2011|1|
+2|2|standalone|1|1st & Goal|1-11-00002|1s|2011|1|
+3|2|expansion|1|1st & Goal: Mideast Division|1-11-00003|1s|2011|1|2
+4|2|expansion|1|1st & Goal: Northeast Division|1-11-00004|1s|2011|1|2
+5|2|expansion|1|1st & Goal: Northwest Division|1-11-00005|1s|2011|1|2
+6|6|standalone|1|504|1-15-00006|50|2015|1|
+7|7|standalone|1|51st State|1-10-00007|51|2010|1|
+8|8|standalone|1|7 Wonders|1-10-00008|7|2010|1|
+9|9|standalone|1|7 Wonders Duel|1-15-00009|7|2015|1|
+10|9|expansion|1|7 Wonders Duel: Pantheon|1-16-00010|7|2016|1|9
+11|11|expansion|1|7 Wonders: Cities|1-12-00011|7|2012|1|8
+12|12|expansion|1|7 Wonders: Leaders|1-11-00012|7|2011|1|8
+13|13|standalone|1|Above and Below|1-15-00013|Ab|2015|1|
+14|14|standalone|1|Acquire|1-64-00014|Ac|1964|1|
+15|15|standalone|1|Ad Astra|1-09-00015|Ad|2009|1|
+16|16|standalone|1|Adventure Land|1-15-00016|Ad|2015|1|
+17|17|standalone|1|Age of Empires III: The Age of Discovery|1-07-00017|Ag|2007|1|
+18|18|standalone|1|Age of Gods|1-04-00018|Ag|2004|1|
+19|19|standalone|1|Agricola|1-07-00019|Ag|2007|1|
+20|19|expansion|1|Agricola X-Deck|1-08-00020|Ag|2008|1|19
+21|19|expansion|1|Agricola Z-Deck|1-08-00021|Ag|2008|1|19
+22|19|expansion|1|Agricola: Through the Seasons|1-08-00022|Ag|2008|1|19
+23|23|standalone|1|Airships|1-07-00023|Ai|2007|1|
+24|24|standalone|1|Aladdin's Dragons|1-00-00024|Al|2000|1|
+25|25|standalone|1|Alchemists|1-14-00025|Al|2014|1|
+26|26|standalone|1|Alexander the Great|1-05-00026|Al|2005|1|
+27|27|standalone|1|Alexandros|1-03-00027|Al|2003|1|
+28|28|standalone|1|Alhambra|1-03-00028|Al|2003|1|
+29|29|standalone|1|Alhambra: The Card Game|1-92-00029|Al|1992|1|
+30|30|standalone|1|Altiplano|1-17-00030|Al|2017|1|
+31|31|standalone|1|Among the Stars|1-12-00031|Am|2012|1|
+32|32|standalone|1|Amun-Re|1-03-00032|Am|2003|1|
+33|33|standalone|1|Amyitis|1-07-00033|Am|2007|1|
+34|34|standalone|1|The Ancient World|1-14-00034|An|2014|1|
+35|35|standalone|1|Android: Netrunner|1-12-00035|An|2012|1|
+36|36|standalone|1|Andromeda|1-99-00036|An|1999|1|
+37|37|standalone|1|Animal Upon Animal|1-05-00037|An|2005|1|
+38|38|standalone|1|Apples to Apples|1-99-00038|Ap|1999|1|
+39|39|standalone|1|AquaSphere|1-14-00039|Aq|2014|1|
+40|40|standalone|1|Architekton|1-05-00040|Ar|2005|1|
+41|41|standalone|1|Archon: Glory & Machination|1-13-00041|Ar|2013|1|
+42|42|standalone|1|Arctic Scavengers: Base Game+HQ+Recon|1-15-00042|Ar|2015|1|
+43|43|standalone|1|Arkadia|1-06-00043|Ar|2006|1|
+44|44|standalone|1|Arkham Horror|1-05-00044|Ar|2005|1|
+45|45|standalone|1|Asgard|1-12-00045|As|2012|1|
+46|46|standalone|1|Assyria|1-09-00046|As|2009|1|
+47|47|standalone|1|At the Gates of Loyang|1-09-00047|At|2009|1|
+48|48|standalone|1|Aton|1-05-00048|At|2005|1|
+49|49|standalone|1|Attika|1-03-00049|At|2003|1|
+50|50|standalone|2|AttrAction|1-12-00050|At|2012|1|
+51|51|standalone|1|Babel|1-00-00051|Ba|2000|1|
+52|52|standalone|2|Bacchus' Banquet|1-08-00052|Ba|2008|1|
+53|53|standalone|2|Yardmaster Express|1-14-00053|Ya|2014|1|
+54|54|standalone|1|Basari|1-98-00054|Ba|1998|1|
+55|55|standalone|1|Baseball Highlights: 2045|1-15-00055|Ba|2015|1|
+56|56|standalone|1|Batt'l Kha'os|1-09-00056|Ba|2009|1|
+57|57|standalone|1|The Battle at Kemble's Cascade|1-14-00057|Ba|2014|1|
+58|58|standalone|1|BattleLore|1-06-00058|Ba|2006|1|
+59|59|standalone|1|Battlestar Galactica: The Board Game|1-08-00059|Ba|2008|1|
+60|60|standalone|2|Bears!|1-11-00060|Be|2011|1|
+61|61|standalone|1|Beowulf: The Legend|1-05-00061|Be|2005|1|
+62|62|standalone|1|Beowulf: The Movie Board Game|1-07-00062|Be|2007|1|
+63|63|standalone|1|Betrayal at House on the Hill|1-04-00063|Be|2004|1|
+64|64|standalone|1|Beyond Baker Street|1-16-00064|Be|2016|1|
+65|65|standalone|2|Biblios|1-07-00065|Bi|2007|1|
+66|66|standalone|1|The Big Book of Madness|1-15-00066|Bi|2015|1|
+67|67|standalone|1|Big City|1-99-00067|Bi|1999|1|
+68|68|standalone|1|BITS|1-11-00068|BI|2011|1|
+69|69|standalone|1|Black Fleet|1-14-00069|Bl|2014|1|
+70|70|standalone|1|Black Gold|1-11-00070|Bl|2011|1|
+71|71|standalone|1|Black Orchestra|1-16-00071|Bl|2016|1|
+72|72|standalone|1|Blockers!|1-07-00072|Bl|2007|1|
+73|73|standalone|1|Blockhead!|1-52-00073|Bl|1952|1|
+74|74|standalone|1|Blokus|1-00-00074|Bl|2000|1|
+75|75|standalone|1|Blokus 3D|1-03-00075|Bl|2003|1|
+76|76|standalone|1|Blokus Trigon|1-06-00076|Bl|2006|1|
+77|77|standalone|1|Blue Moon|1-04-00077|Bl|2004|1|
+78|78|standalone|1|Blue Moon City|1-06-00078|Bl|2006|1|
+79|79|standalone|1|The BoardGameGeek Game|1-09-00079|Bo|2009|1|
+80|80|standalone|1|Bob Ross: Art of Chill Game|1-17-00080|Bo|2017|1|
+81|81|standalone|1|Bohnanza|1-97-00081|Bo|1997|1|
+82|82|standalone|1|Bombay|1-09-00082|Bo|2009|1|
+83|83|standalone|1|Bookmaker|1-12-00083|Bo|2012|1|
+84|84|standalone|1|Bootleggers|1-04-00084|Bo|2004|1|
+85|85|standalone|1|Bora Bora|1-13-00085|Bo|2013|1|
+86|86|standalone|1|Boss Monster: The Dungeon Building Card Game|1-13-00086|Bo|2013|1|
+87|87|standalone|2|Bottlecap Vikings|1-15-00087|Bo|2015|1|
+88|88|standalone|1|Bounce-Off|1-13-00088|Bo|2013|1|
+89|89|standalone|1|Boxcars|1-74-00089|Bo|1974|1|
+90|90|standalone|1|Brass: Lancashire|1-07-00090|Br|2007|1|
+91|91|standalone|1|Brew Crafters|1-13-00091|Br|2013|1|
+92|92|standalone|1|BrewMaster: The Craft Beer Game|1-01-00092|Br|2001|1|
+93|93|standalone|1|The Bridges of Shangri-La|1-03-00093|Th|2003|1|
+94|94|standalone|1|Broom Service|1-15-00094|Br|2015|1|
+95|95|standalone|1|Bruges|1-13-00095|Br|2013|1|
+96|96|standalone|1|Bruxelles 1893|1-13-00096|Br|2013|1|
+97|97|standalone|1|Burano|1-15-00097|Bu|2015|1|
+98|98|standalone|1|Burrows|1-10-00098|Bu|2010|1|
+99|99|standalone|1|Buy Low Sell High|1-96-00099|Bu|1996|1|
+100|100|standalone|1|California|1-06-00100|Ca|2006|1|
+101|101|standalone|1|Campaign Manager 2008|1-09-00101|Ca|2009|1|
+102|102|standalone|1|Can't Stop|1-80-00102|Ca|1980|1|
+103|103|standalone|1|Captains of Industry|1-15-00103|Ca|2015|1|
+104|104|standalone|1|Carcassonne|1-00-00104|Ca|2000|1|
+105|105|standalone|1|Carcassonne Big Box|1-06-00105|Ca|2006|1|
+106|106|standalone|1|Carcassonne: Hunters and Gatherers|1-02-00106|Ca|2002|1|
+107|107|standalone|1|Carcassonne: The Castle|1-03-00107|Ca|2003|1|
+108|108|standalone|1|Carcassonne: The City|1-04-00108|Ca|2004|1|
+109|109|standalone|1|Cards Against Humanity|1-09-00109|Ca|2009|1|
+110|110|standalone|1|Cargo|1-04-00110|Ca|2004|1|
+111|111|standalone|1|Caribbean|1-04-00111|Ca|2004|1|
+112|112|standalone|1|Carson City|1-09-00112|Ca|2009|1|
+113|113|standalone|1|Cartagena|1-00-00113|Ca|2000|1|
+114|114|standalone|1|Castaways|1-13-00114|Ca|2013|1|
+115|115|standalone|1|Castellan|1-13-00115|Ca|2013|1|
+116|116|standalone|1|Castle Panic|1-09-00116|Ca|2009|1|
+117|117|standalone|1|The Castles of Burgundy|1-11-00117|Ca|2011|1|
+118|118|standalone|2|The Castles of Burgundy: The Dice Game|1-17-00118|Ca|2017|1|
+119|119|standalone|1|Castles of Mad King Ludwig|1-14-00119|Ca|2014|1|
+120|120|standalone|1|Catan|1-95-00120|Ca|1995|1|
+121|121|standalone|1|Catan Card Game|1-96-00121|Ca|1996|1|
+122|122|expansion|1|Catan: Cities & Knights|1-98-00122|Ca|1998|1|120
+123|123|standalone|1|Catan: Junior|1-12-00123|Ca|2012|1|
+124|124|expansion|1|Catan: Seafarers|1-97-00124|Ca|1997|1|120
+125|125|standalone|1|Cave Troll|1-02-00125|Ca|2002|1|
+126|126|standalone|1|Caveman Curling|1-10-00126|Ca|2010|1|
+127|127|standalone|1|Caverna: The Cave Farmers|1-13-00127|Ca|2013|1|
+128|128|standalone|1|Cavum|1-08-00128|Ca|2008|1|
+129|129|standalone|1|Caylus|1-05-00129|Ca|2005|1|
+130|130|standalone|1|Chang Cheng|1-07-00130|Ch|2007|1|
+131|131|standalone|1|Chaos in the Old World|1-09-00131|Ch|2009|1|
+132|132|standalone|1|Chess|1-75-00132|Ch|1475|1|
+133|133|standalone|1|Chicken Cha Cha Cha|1-97-00133|Ch|1997|1|
+134|134|standalone|2|Chimera|1-14-00134|Ch|2014|1|
+135|135|standalone|1|Chinatown|1-99-00135|Ch|1999|1|
+136|136|standalone|1|Cir*Kis|1-09-00136|Ci|2009|1|
+137|137|standalone|2|Circus Flohcati|1-98-00137|Ci|1998|1|
+138|138|standalone|2|Citadels|1-00-00138|Ci|2000|1|
+139|139|standalone|1|Cities|1-08-00139|Ci|2008|1|
+140|140|standalone|1|City Hall|1-14-00140|Ci|2014|1|
+141|141|standalone|1|Clans|1-02-00141|Cl|2002|1|
+142|142|standalone|1|Clash of the Gladiators|1-02-00142|Cl|2002|1|
+143|143|standalone|1|Cleopatra and the Society of Architects|1-06-00143|Cl|2006|1|
+144|144|standalone|1|The Climbers|1-08-00144|Cl|2008|1|
+145|145|standalone|1|Cloud 9|1-99-00145|Cl|1999|1|
+146|146|standalone|1|The Club|1-08-00146|Cl|2008|1|
+147|147|standalone|1|Clue: The Great Museum Caper|1-91-00147|Cl|1991|1|
+148|148|standalone|1|Colonia|1-09-00148|Co|2009|1|
+149|149|standalone|1|The Colonists|1-16-00149|Co|2016|1|
+150|150|standalone|2|Coloretto|1-03-00150|Co|2003|1|
+151|151|standalone|2|Colossal Arena|1-97-00151|Co|1997|1|
+152|152|standalone|1|Colt Express|1-14-00152|Co|2014|1|
+153|153|standalone|1|Compounded|1-13-00153|Co|2013|1|
+154|154|standalone|1|Comuni|1-08-00154|Co|2008|1|
+155|155|standalone|1|Concept|1-13-00155|Co|2013|1|
+156|156|standalone|1|Cornucopia|1-10-00156|Co|2010|1|
+157|157|standalone|1|Cottage Garden|1-16-00157|Co|2016|1|
+158|158|standalone|2|Council of Verona|1-13-00158|Co|2013|1|
+159|159|standalone|2|Cowtown|1-12-00159|Co|2012|1|
+160|160|standalone|2|Crazy Creatures of Dr. Doom|1-12-00160|Cr|2012|1|
+161|161|standalone|2|Cribbage|1-30-00161|Cr|1630|1|
+162|162|standalone|1|Cuba|1-07-00162|Cu|2007|1|
+163|163|standalone|1|Cube Quest|1-13-00163|Cu|2013|1|
+164|164|standalone|1|Darjeeling|1-07-00164|Da|2007|1|
+165|165|standalone|1|Dark Horse|1-12-00165|Da|2012|1|
+166|166|expansion|1|Dark Horse: Rebels & Rogues|1-14-00166|Da|2014|1|165
+167|167|standalone|2|Dead Drop|1-15-00167|De|2015|1|
+168|168|standalone|2|Dead Man's Draw|1-15-00168|De|2015|1|
+169|169|standalone|1|Dead of Winter: A Crossroads Game|1-14-00169|De|2014|1|
+170|170|standalone|1|Dead of Winter: The Long Night|1-16-00170|De|2016|1|
+171|171|standalone|2|Deluxe Weed!|1-12-00171|De|2012|1|
+172|172|standalone|2|Democrazy|1-00-00172|De|2000|1|
+173|173|standalone|1|Der schwarze Pirat|1-06-00173|De|2006|1|
+174|174|standalone|1|Descent: Journeys in the Dark (Second Edition)|1-12-00174|De|2012|1|
+175|175|standalone|1|Deus|1-14-00175|De|2014|1|
+176|176|standalone|1|Diamant|1-05-00176|Di|2005|1|
+177|177|standalone|1|Dice Town|1-09-00177|Di|2009|1|
+178|178|standalone|1|DICEcapades|1-07-00178|DI|2007|1|
+179|179|standalone|1|Discoveries|1-15-00179|Di|2015|1|
+180|180|standalone|1|Desination Tresor|1-02-00180|De|2002|1|
+181|181|standalone|1|Disorder|1-06-00181|Di|2006|1|
+182|182|standalone|1|Dixit Odyssey|1-11-00182|Di|2011|1|
+183|183|standalone|1|Doge|1-00-00183|Do|2000|1|
+184|184|standalone|1|Dominant Species|1-10-00184|Do|2010|1|
+185|185|standalone|1|Dominant Species: The Card Game|1-12-00185|Do|2012|1|
+186|186|standalone|1|Dominion|1-08-00186|Do|2008|1|
+187|187|standalone|1|Dos Rios|1-04-00187|Do|2004|1|
+188|188|standalone|1|The Downfall of Pompeii|1-04-00188|Do|2004|1|
+189|189|standalone|2|Dragon Punch|1-14-00189|Dr|2014|1|
+190|190|standalone|2|Dragon Slayer|1-14-00190|Dr|2014|1|
+191|191|standalone|1|Drakon (third edition)|1-06-00191|Dr|2006|1|
+192|192|standalone|1|Hollywood Blockbuster|1-00-00192|Ho|2000|1|
+193|193|standalone|1|Dungeon Fighter|1-11-00193|Du|2011|1|
+194|194|standalone|1|Dungeon Lords|1-09-00194|Du|2009|1|
+195|195|expansion|1|Dungeon Lords: Festival Season|1-12-00195|Du|2012|1|194
+196|196|standalone|1|Dungeon Petz|1-11-00196|Du|2011|1|
+197|197|standalone|1|Dungeons & Dragons: The Legend of Drizzt Board Game|1-11-00197|Du|2011|1|
+198|198|standalone|2|Dutch Blitz|1-60-00198|Du|1960|1|
+199|199|standalone|1|DVONN|1-01-00199|DV|2001|1|
+200|200|standalone|1|Egizia|1-09-00200|Eg|2009|1|
+201|201|standalone|1|Eight-Minute Empire|1-12-00201|Ei|2012|1|
+202|202|standalone|1|Einstein: His Amazing Life and Incomparable Science|1-17-00202|Ei|2017|1|
+203|203|standalone|1|Elder Sign|1-11-00203|El|2011|1|
+204|204|standalone|1|Eldritch Horror|1-13-00204|El|2013|1|
+205|205|standalone|1|Element|1-08-00205|El|2008|1|
+206|206|standalone|1|Elfenland|1-98-00206|El|1998|1|
+207|207|standalone|1|Eminent Domain|1-11-00207|Em|2011|1|
+208|208|standalone|1|The End of the Triumvirate|1-05-00208|En|2005|1|
+209|209|standalone|1|Endeavor|1-09-00209|En|2009|1|
+210|210|standalone|2|Epic Card Game|1-15-00210|Ep|2015|1|
+211|211|standalone|1|Epigo|1-11-00211|Ep|2011|1|
+212|212|standalone|1|Escape the Room: Mystery at the Stargazer's Manor|1-16-00212|Es|2016|1|
+213|213|standalone|1|Escape the Room: Secret of Dr. Gravely's Retreat|1-16-00213|Es|2016|1|
+214|214|standalone|2|Euchre|1-48-00214|Eu|1848|1|
+215|215|standalone|1|Euphoria: Build a Better Dystopia|1-13-00215|Eu|2013|1|
+216|216|standalone|1|Evolution: The Beginning|1-16-00216|Ev|2016|1|
+217|217|standalone|2|Exploding Kittens|1-15-00217|Ex|2015|1|
+218|218|standalone|1|Factory Fun|1-06-00218|Fa|2006|1|
+219|219|standalone|1|Favor of the Pharaoh|1-15-00219|Fa|2015|1|
+220|220|standalone|1|Fealty|1-11-00220|Fe|2011|1|
+221|221|standalone|1|A Feast for Odin|1-16-00221|Fe|2016|1|
+222|222|standalone|1|A Few Acres of Snow|1-11-00222|Fe|2011|1|
+223|223|standalone|1|Fields of Arle|1-14-00223|Fi|2014|1|
+224|224|standalone|1|Fields of Green|1-16-00224|Fi|2016|1|
+225|225|standalone|1|Finca|1-09-00225|Fi|2009|1|
+226|226|standalone|1|Firefly: The Game|1-13-00226|Fi|2013|1|
+227|227|expansion|1|Firefly: The Game - Blue Sun|1-14-00227|Fi|2014|1|227
+228|228|standalone|1|Fist of Dragonstones|1-02-00228|Fi|2002|1|
+229|229|standalone|1|Five Tribes|1-14-00229|Fi|2014|1|
+230|229|expansion|1|Five Tribes: The Artisans of Naqala|1-15-00230|Fi|2015|1|229
+231|231|standalone|1|Flash Point: Fire Rescue|1-11-00231|Fl|2011|1|
+232|232|standalone|1|Flick 'em Up!|1-15-00232|Fl|2015|1|
+233|233|standalone|2|Flip City|1-14-00233|Fl|2014|1|
+234|234|standalone|1|Flip Ships|1-17-00234|Fl|2017|1|
+235|235|standalone|2|Fluxx|1-97-00235|Fl|1997|1|
+236|236|standalone|1|Fluxx: The Board Game|1-13-00236|Fl|2013|1|
+237|237|standalone|1|For Sale|1-97-00237|Fo|1997|1|
+238|238|standalone|1|Forbidden Island|1-10-00238|Fo|2010|1|
+239|239|standalone|1|Forged in Steel|1-16-00239|Fo|2016|1|
+240|240|standalone|1|Formidable Foes|1-06-00240|Fo|2006|1|
+241|241|standalone|1|Fortress America|1-86-00241|Fo|1986|1|
+242|242|standalone|1|Fresco|1-10-00242|Fr|2010|1|
+243|243|standalone|1|Fresh Fish|1-97-00243|Fr|1997|1|
+244|244|standalone|1|Friday|1-11-00244|Fr|2011|1|
+245|245|standalone|1|FUSE|1-15-00245|FU|2015|1|
+246|246|standalone|1|Galaxy Trucker|1-07-00246|Ga|2007|1|
+247|247|standalone|1|The Game of Nasty Things...|1-15-00247|Ga|2015|1|
+248|248|standalone|2|A Game of Thrones: Hand of the King|1-16-00248|Ga|2016|1|
+249|249|standalone|1|A Game of Thrones: The Board Game (Second Edition)|1-11-00249|Ga|2011|1|
+250|250|standalone|1|A Game of Thrones: The Card Game (Second Edition)|1-15-00250|Ga|2015|1|
+251|251|standalone|2|Gem Dealer|1-08-00251|Ge|2008|1|
+252|252|standalone|1|Gemlok|1-07-00252|Ge|2007|1|
+253|253|standalone|2|Gene Pool|1-06-00253|Ge|2006|1|
+254|254|standalone|1|Get Bit! Collectors Edition|1-14-00254|Ge|2014|1|
+255|255|standalone|1|Ghost Fightin' Treasure Hunters|1-13-00255|Gh|2013|1|
+256|256|standalone|1|Ghost Stories|1-08-00256|Gh|2008|1|
+257|257|expansion|1|Ghost Stories: White Moon|1-09-00257|Gh|2009|1|256
+258|258|standalone|1|Ginkgopolis|1-12-00258|Gi|2012|1|
+259|259|standalone|1|Glass Road|1-13-00259|Gl|2013|1|
+260|260|standalone|1|Glen More|1-10-00260|Gl|2010|1|
+261|261|standalone|1|Gloria Mundi|1-06-00261|Gl|2006|1|
+262|262|standalone|2|Gloria Picktoria|1-96-00262|Gl|1996|1|
+263|263|standalone|1|Glory to Rome|1-05-00263|Gl|2005|1|
+264|264|standalone|1|Glucks-Piraten|1-08-00264|Gl|2008|1|
+265|265|standalone|1|Goa|1-04-00265|Go|2004|1|
+266|266|standalone|1|Goldbrau|1-04-00266|Go|2004|1|
+267|267|standalone|1|Golden Snitch: Snitch Snatcher – The Quidditch Game|1-12-00267|Go|2012|1|
+268|268|standalone|1|Gonzaga|1-09-00268|Go|2009|1|
+269|269|standalone|1|La Granja|1-14-00269|Gr|2014|1|
+270|270|standalone|1|The Great Fire of London 1666|1-10-00270|Gr|2010|1|
+271|271|standalone|2|The Great Heartland Hauling Co.|1-13-00271|Gr|2013|1|
+272|272|standalone|2|Guillotine|1-98-00272|Gu|1998|1|
+273|273|standalone|1|Hab & Gut|1-08-00273|Ha|2008|1|
+274|274|standalone|1|Hacienda|1-05-00274|Ha|2005|1|
+275|275|standalone|1|Hanabi (Tiles)|1-10-00275|Ha|2010|1|
+276|276|standalone|1|Hands in the Sea|1-16-00276|Ha|2016|1|
+277|277|standalone|1|The Hanging Gardens|1-08-00277|Ha|2008|1|
+278|278|standalone|1|Hansa|1-04-00278|Ha|2004|1|
+279|279|standalone|1|Hansa Teutonica|1-09-00279|Ha|2009|1|
+280|280|standalone|2|Happy Salmon|1-16-00280|Ha|2016|1|
+281|281|standalone|1|Harry Potter: Hogwarts Battle|1-16-00281|Ha|2016|1|
+282|282|standalone|1|Havana|1-09-00282|Ha|2009|1|
+283|283|standalone|1|Le Havre|1-08-00283|Ha|2008|1|
+284|284|standalone|1|Le Havre: The Inland Port|1-12-00284|Ha|2012|1|
+285|285|standalone|1|Hawaii|1-11-00285|Ha|2011|1|
+286|286|standalone|1|Head-to-Head Poker|1-05-00286|He|2005|1|
+287|287|standalone|1|Top Secret Spies|1-84-00287|To|1984|1|
+288|288|standalone|1|Helios|1-14-00288|He|2014|1|
+289|289|standalone|1|Hermagor|1-06-00289|He|2006|1|
+290|290|expansion|1|Bohnanza: High Bohn Plus|1-04-00290|Hi|2004|1|81
+291|291|standalone|1|Hey, That's My Fish!|1-03-00291|He|2003|1|
+292|292|standalone|2|High Stakes Drifter|1-05-00292|Hi|2005|1|
+293|293|standalone|1|Highland Clans|1-05-00293|Hi|2005|1|
+294|294|standalone|1|Himalaya|1-02-00294|Hi|2002|1|
+295|295|standalone|1|Hit Z Road|1-16-00295|Hi|2016|1|
+296|296|standalone|1|Hogwarts: House Cup Challenge|1-08-00296|Ho|2008|1|
+297|297|standalone|1|Homeland: The Game|1-15-00297|Ho|2015|1|
+298|298|standalone|1|Homesteaders|1-09-00298|Ho|2009|1|
+299|299|standalone|1|HomeStretch|1-12-00299|Ho|2012|1|
+300|300|standalone|1|HOP!|1-16-00300|HO|2016|1|
+301|301|standalone|1|Hornet|1-10-00301|Ho|2010|1|
+302|302|standalone|2|Hostage Negotiator|1-15-00302|Ho|2015|1|
+303|303|standalone|1|Hotel Samoa|1-10-00303|Ho|2010|1|
+304|304|standalone|1|How to Rob a Bank|1-17-00304|Ho|2017|1|
+305|305|standalone|1|Hurry'Cup!|1-08-00305|Hu|2008|1|
+306|306|standalone|1|Hyperborea|1-14-00306|Hy|2014|1|
+307|307|standalone|1|I'm the Boss!|1-94-00307|Im|1994|1|
+308|308|standalone|1|Imhotep|1-16-00308|Im|2016|1|
+309|309|standalone|1|In the Shadow of the Emperor|1-04-00309|In|2004|1|
+310|310|standalone|1|In the Year of the Dragon|1-07-00310|In|2007|1|
+311|311|standalone|1|Incursion|1-09-00311|In|2009|1|
+312|312|standalone|1|Ingenious|1-04-00312|In|2004|1|
+313|313|standalone|1|Inis|1-16-00313|In|2016|1|
+314|314|standalone|1|Inka|1-05-00314|In|2005|1|
+315|315|expansion|1|Innovation: Echoes of the Past|1-11-00315|In|2011|1|316
+316|316|standalone|2|Innovation|1-10-00316|In|2010|1|
+317|317|standalone|1|New York Card Game|1-11-00317|Ne|2011|1|
+318|318|standalone|1|La Isla|1-14-00318|Is|2014|1|
+319|319|standalone|1|Isla Dorada|1-10-00319|Is|2010|1|
+320|320|standalone|2|The Isle of Doctor Necreaux|1-09-00320|Is|2009|1|
+321|321|standalone|1|Isle of Skye: From Chieftain to King|1-15-00321|Is|2015|1|
+322|322|standalone|1|JAB: Realtime Boxing|1-11-00322|JA|2011|1|
+323|323|standalone|1|Jamaica|1-07-00323|Ja|2007|1|
+324|324|standalone|1|Jambo|1-04-00324|Ja|2004|1|
+325|325|standalone|1|Java|1-00-00325|Ja|2000|1|
+326|326|standalone|1|Jorvik|1-16-00326|Jo|2016|1|
+327|327|standalone|1|Dschungel-Schatz|1-06-00327|Ds|2006|1|
+328|328|standalone|1|Junta|1-78-00328|Ju|1978|1|
+329|329|standalone|1|Kahuna|1-98-00329|Ka|1998|1|
+330|330|standalone|1|Kanagawa|1-16-00330|Ka|2016|1|
+331|331|standalone|1|Kanban: Automotive Revolution|1-14-00331|Ka|2014|1|
+332|332|standalone|1|Karuba|1-15-00332|Ka|2015|1|
+333|333|standalone|1|Kemet|1-12-00333|Ke|2012|1|
+334|334|standalone|1|Key Harvest|1-07-00334|Ke|2007|1|
+335|335|standalone|1|Key to the City: London|1-16-00335|Ke|2016|1|
+336|336|standalone|1|Keyflower|1-12-00336|Ke|2012|1|
+337|337|standalone|1|Keyper|1-17-00337|Ke|2017|1|
+338|338|standalone|1|Keythedral|1-02-00338|Ke|2002|1|
+339|339|standalone|1|Killer Bunnies REMIX|1-09-00339|Ki|2009|1|
+340|343|expansion|1|Kingdom Builder: Crossroads|1-13-00340|Ki|2013|1|343
+341|343|expansion|1|Kingdom Builder: Nomads|1-12-00341|Ki|2012|1|343
+342|342|standalone|2|King Lui|1-03-00342|Ki|2003|1|
+343|343|standalone|1|Kingdom Builder|1-11-00343|Ki|2011|1|
+344|344|standalone|1|Kingdomino|1-16-00344|Ki|2016|1|
+345|345|standalone|1|Kingdoms|1-94-00345|Ki|1994|1|
+346|346|standalone|1|Kings of Air and Steam|1-13-00346|Ki|2013|1|
+347|347|standalone|3|KLASK|1-14-00347|KL|2014|1|
+348|348|standalone|1|Kreta|1-05-00348|Kr|2005|1|
+349|349|standalone|1|Labyrinth|1-86-00349|La|1986|1|
+350|350|standalone|1|Lancaster|1-11-00350|La|2011|1|
+351|351|standalone|1|Lap Dance|1-14-00351|La|2014|1|
+352|352|standalone|1|Las Vegas|1-12-00352|La|2012|1|
+353|353|standalone|1|The Last Spike|1-15-00353|La|2015|1|
+354|354|standalone|1|League of Six|1-07-00354|Le|2007|1|
+355|355|standalone|1|Legends of Andor|1-12-00355|Le|2012|1|
+356|356|standalone|2|Lemonade Stand|1-12-00356|Le|2012|1|
+357|357|standalone|1|Lewis & Clark|1-13-00357|Le|2013|1|
+358|358|standalone|2|Little Devils|1-12-00358|Li|2012|1|
+359|359|standalone|2|Little Polar Bear Card Game|1-99-00359|Li|1999|1|
+360|360|standalone|1|Livingstone|1-09-00360|Li|2009|1|
+361|361|standalone|1|Long Shot|1-09-00361|Lo|2009|1|
+362|362|standalone|1|Loony Quest|1-15-00362|Lo|2015|1|
+363|363|standalone|1|Loopin' Louie|1-92-00363|Lo|1992|1|
+364|364|standalone|2|Loot|1-92-00364|Lo|1992|1|
+365|365|standalone|1|Lord of the Rings: The Confrontation|1-02-00365|Lo|2002|1|
+366|366|standalone|1|Lords of Vegas|1-10-00366|Lo|2010|1|
+367|367|standalone|1|Lords of Waterdeep|1-12-00367|Lo|2012|1|
+368|368|standalone|1|Lords of Xidit|1-14-00368|Lo|2014|1|
+369|369|expansion|1|Lords of Waterdeep: Scoundrels of Skullport|1-13-00369|Lo|2013|1|367
+370|370|standalone|1|Lost Cities|1-99-00370|Lo|1999|1|
+371|371|standalone|1|The Lost Dutchman|1-13-00371|Lo|2013|1|
+372|372|standalone|1|Louis XIV|1-05-00372|Lo|2005|1|
+373|373|standalone|2|Love Letter|1-12-00373|Lo|2012|1|
+374|374|standalone|1|Lovecraft Letter|1-17-00374|Lo|2017|1|
+375|375|standalone|1|Lowenherz|1-97-00375|Lo|1997|1|
+376|376|standalone|2|Luchador! Mexican Wrestling Dice|1-13-00376|Lu|2013|1|
+377|377|standalone|1|Machi Koro|1-12-00377|Ma|2012|1|
+378|378|standalone|1|Mad Gab|1-96-00378|Ma|1996|1|
+379|379|standalone|1|Mage Knight Board Game|1-11-00379|Ma|2011|1|
+380|380|standalone|1|Magic Maze|1-17-00380|Ma|2017|1|
+381|381|standalone|1|Maharani|1-12-00381|Ma|2012|1|
+382|382|standalone|1|Mali Powstancy: Warszawa 1944|1-09-00382|Ma|2009|1|
+383|383|standalone|1|Manhattan|1-94-00383|Ma|1994|1|
+384|384|standalone|1|Manoeuvre|1-08-00384|Ma|2008|1|
+385|385|standalone|1|Mansions of Madness: Second Edition|1-16-00385|Ma|2016|1|
+386|386|standalone|1|Mare Nostrum: Empires|1-16-00386|Ma|2016|1|
+387|387|standalone|2|Marrying Mr. Darcy|1-14-00387|Ma|2014|1|
+388|388|expansion|1|Mare Nostrum: Empires - Atlas Expansion|1-16-00388|Ma|2016|1|386
+389|389|standalone|2|Martian Dice|1-11-00389|Ma|2011|1|
+390|390|standalone|2|Maskmen|1-14-00390|Ma|2014|1|
+391|391|standalone|1|Masons|1-06-00391|Ma|2006|1|
+392|392|standalone|2|Masters Gallery|1-09-00392|Ma|2009|1|
+393|393|standalone|1|Meeple Circus|1-17-00393|Me|2017|1|
+394|394|standalone|1|Merkator|1-10-00394|Me|2010|1|
+395|395|standalone|1|Meteor|1-14-00395|Me|2014|1|
+396|396|standalone|2|Meuterer|1-00-00396|Me|2000|1|
+397|397|standalone|1|Mexica|1-02-00397|Me|2002|1|
+398|398|standalone|1|Micro Mutants: Evolution|1-07-00398|Mi|2007|1|
+399|399|standalone|2|Middle Kingdom|1-08-00399|Mi|2008|1|
+400|400|standalone|1|Midgard|1-07-00400|Mi|2007|1|
+401|401|standalone|1|Milestones|1-12-00401|Mi|2012|1|
+402|402|standalone|1|MindTrap|1-91-00402|Mi|1991|1|
+403|403|standalone|1|The Mines of Zavandor|1-10-00403|Mi|2010|1|
+404|404|standalone|1|Ming Dynasty|1-07-00404|Mi|2007|1|
+405|405|standalone|3|Kubb|1-12-00405|Ku|2012|1|
+406|406|standalone|3|Molkky|1-13-00406|Mo|2013|1|
+407|407|standalone|1|Mission: Red Planet|1-05-00407|Mi|2005|1|
+408|408|standalone|1|Mombasa|1-15-00408|Mo|2015|1|
+409|409|standalone|1|Mondo|1-11-00409|Mo|2011|1|
+410|410|standalone|1|Monster Derby|1-94-00410|Mo|1994|1|
+411|411|standalone|1|Monza|1-00-00411|Mo|2000|1|
+412|412|standalone|1|Mr. Jack|1-06-00412|Mr|2006|1|
+413|413|standalone|1|Mu & Lots More|1-07-00413|Mu|2007|1|
+414|414|standalone|1|Muckenstich, Danger, Zwickern|1-12-00414|Mu|2012|1|
+415|415|standalone|1|Mummy's Treasure|1-09-00415|Mu|2009|1|
+416|416|standalone|1|Municipium|1-08-00416|Mu|2008|1|
+417|417|standalone|1|Mykerinos|1-06-00417|My|2006|1|
+418|418|standalone|1|Mysterium|1-15-00418|My|2015|1|
+419|419|standalone|1|Mystery of the Abbey|1-95-00419|My|1995|1|
+420|420|standalone|1|Mystic Vale|1-16-00420|My|2016|1|
+421|421|standalone|1|Nautilus|1-02-00421|Na|2002|1|
+422|422|standalone|1|Nefertiti|1-08-00422|Ne|2008|1|
+423|423|standalone|1|Neuland|1-04-00423|Ne|2004|1|
+424|424|standalone|2|Neuroshima: Convoy|1-12-00424|Ne|2012|1|
+425|425|standalone|1|New England|1-03-00425|Ne|2003|1|
+426|426|standalone|1|The New Era|1-11-00426|Ne|2011|1|
+427|427|standalone|1|New York|1-11-00427|Ne|2011|1|
+428|428|standalone|1|Nexus Ops|1-05-00428|Ne|2005|1|
+429|429|standalone|1|Niagara|1-04-00429|Ni|2004|1|
+430|430|standalone|1|Ninja Versus Ninja|1-08-00430|Ni|2008|1|
+431|431|standalone|2|No Thanks!|1-04-00431|No|2004|1|
+432|432|standalone|1|Nothing Personal|1-13-00432|No|2013|1|
+433|433|standalone|1|Notre Dame|1-07-00433|No|2007|1|
+434|434|standalone|2|Nottingham|1-06-00434|No|2006|1|
+435|435|standalone|2|Number Please!|1-11-00435|Nu|2011|1|
+436|436|standalone|1|O Zoo le Mio|1-02-00436|O|2002|1|
+437|437|standalone|1|Oasis|1-04-00437|Oa|2004|1|
+438|438|standalone|1|Olympus|1-10-00438|Ol|2010|1|
+439|439|standalone|1|On the Underground|1-06-00439|On|2006|1|
+440|440|standalone|2|One Night Ultimate Werewolf Daybreak|1-15-00440|On|2015|1|
+441|441|standalone|2|Onirim|1-10-00441|On|2010|1|
+442|442|standalone|1|Onitama|1-14-00442|On|2014|1|
+443|443|standalone|1|Ora et Labora|1-11-00443|Or|2011|1|
+444|444|standalone|1|The Oracle of Delphi|1-16-00444|Or|2016|1|
+445|445|standalone|1|Orleans|1-14-00445|Or|2014|1|
+446|446|standalone|1|Oshi|1-06-00446|Os|2006|1|
+447|447|standalone|2|Oss|1-13-00447|Os|2013|1|
+448|448|standalone|1|Panamax|1-14-00448|Pa|2014|1|
+449|449|standalone|1|Pandemic|1-08-00449|Pa|2008|1|
+450|450|standalone|1|Pandemic Iberia|1-16-00450|Pa|2016|1|
+451|451|standalone|1|Pandemic: Contagion|1-14-00451|Pa|2014|1|
+452|452|standalone|1|Pandemic: Reign of Cthulhu|1-16-00452|Pa|2016|1|
+453|449|expansion|1|Pandemic: In the Lab|1-13-00453|Pa|2013|1|449
+454|449|expansion|1|Pandemic: On the Brink|1-09-00454|Pa|2009|1|449
+455|455|standalone|1|Pandemic: The Cure|1-14-00455|Pa|2014|1|
+456|456|expansion|1|Pandemic: State of Emergency|1-15-00456|Pa|2015|1|449
+457|457|standalone|1|Panic Station|1-11-00457|Pa|2011|1|
+458|458|standalone|1|Pantheon|1-11-00458|Pa|2011|1|
+459|459|standalone|1|Pants on Fire!|1-09-00459|Pa|2009|1|
+460|460|standalone|2|Paradise Fallen: The Card Game|1-13-00460|Pa|2013|1|
+461|461|standalone|1|Parfum|1-15-00461|Pa|2015|1|
+462|462|standalone|1|Paris Connection|1-10-00462|Pa|2010|1|
+463|463|standalone|1|Patrician|1-07-00463|Pa|2007|1|
+464|464|standalone|2|Pax Porfiriana|1-12-00464|Pa|2012|1|
+465|465|standalone|1|Perry Rhodan: The Cosmic League|1-07-00465|Pe|2007|1|
+466|466|standalone|2|Phase 10|1-82-00466|Ph|1982|1|
+467|467|standalone|1|Phoenicia|1-07-00467|Ph|2007|1|
+468|468|standalone|1|Photosynthesis|1-17-00468|Ph|2017|1|
+469|469|standalone|2|Pick Picknic|1-01-00469|Pi|2001|1|
+470|470|standalone|1|Pictomania|1-11-00470|Pi|2011|1|
+471|471|standalone|1|Piece o' Cake|1-08-00471|Pi|2008|1|
+472|472|standalone|1|The Pillars of the Earth|1-06-00472|Pi|2006|1|
+473|473|standalone|2|Pinata|1-13-00473|Pi|2013|1|
+474|474|standalone|1|Pirate's Cove|1-02-00474|Pi|2002|1|
+475|475|standalone|2|Pit|1-03-00475|Pi|1903|1|
+476|476|standalone|1|PitchCar|1-95-00476|Pi|1995|1|
+477|477|standalone|1|Planet Steam|1-08-00477|Pl|2008|1|
+478|478|expansion|1|PitchCar Extension|1-97-00478|Pi|1997|1|476
+479|479|expansion|1|PitchCar Extension 2: More Speed More Fun|1-06-00479|Pi|2006|1|476
+480|480|standalone|1|Planetarium|1-17-00480|Pl|2017|1|
+481|481|standalone|1|Police Precinct|1-13-00481|Po|2013|1|
+482|482|standalone|1|Ponte del Diavolo|1-07-00482|Po|2007|1|
+483|483|standalone|1|Portobello Market|1-07-00483|Po|2007|1|
+484|484|standalone|1|Potion Explosion|1-15-00484|Po|2015|1|
+485|485|standalone|1|Power Grid|1-04-00485|Po|2004|1|
+486|486|standalone|1|Power Grid: Factory Manager|1-09-00486|Po|2009|1|
+487|487|standalone|1|Pressure Point|1-10-00487|Pr|2010|1|
+488|488|standalone|1|The Princes of Florence|1-00-00488|Pr|2000|1|
+489|489|standalone|1|Professor Evil and The Citadel of Time|1-17-00489|Pr|2017|1|
+490|490|standalone|1|Prosperity|1-13-00490|Pr|2013|1|
+491|491|standalone|2|Province|1-14-00491|Pr|2014|1|
+492|492|standalone|1|Puerto Rico|1-02-00492|Pu|2002|1|
+493|493|standalone|1|The Pursuit of Happiness|1-15-00493|Pu|2015|1|
+494|494|standalone|1|Puzzle Strike|1-10-00494|Pu|2010|1|
+495|495|standalone|1|Pyramid Poker|1-17-00495|Py|2017|1|
+496|496|standalone|1|Quadropolis|1-16-00496|Qu|2016|1|
+497|497|standalone|1|Quicksand|1-03-00497|Qu|2003|1|
+498|498|standalone|1|Quo Vadis?|1-92-00498|Qu|1992|1|
+499|499|standalone|1|Qwirkle|1-06-00499|Qw|2006|1|
+500|500|standalone|1|Qwixx|1-12-00500|Qw|2012|1|
+501|501|standalone|1|Qwixx Deluxe|1-16-00501|Qw|2016|1|
+502|502|standalone|1|Ra|1-99-00502|Ra|1999|1|
+503|503|standalone|1|Race for the Galaxy|1-07-00503|Ra|2007|1|
+504|504|standalone|1|Raise Your Goblets|1-16-00504|Ra|2016|1|
+505|505|standalone|1|Raptor|1-15-00505|Ra|2015|1|
+506|506|standalone|1|RattleSnake|1-07-00506|Ra|2007|1|
+507|507|standalone|1|Rattus|1-10-00507|Ra|2010|1|
+508|508|standalone|2|Red November|1-08-00508|Re|2008|1|
+509|509|standalone|2|Red7|1-14-00509|Re|2014|1|
+510|510|standalone|1|Reef Encounter|1-04-00510|Re|2004|1|
+511|511|standalone|1|Relationship Tightrope|1-99-00511|Re|1999|1|
+512|512|standalone|1|Renaissance Man|1-13-00512|Re|2013|1|
+513|513|standalone|1|Rheinländer|1-99-00513|Rh|1999|1|
+514|514|standalone|1|Rise of Augustus|1-13-00514|Ri|2013|1|
+515|515|standalone|2|Rise!|1-12-00515|Ri|2012|1|
+516|516|standalone|1|Risk|1-59-00516|Ri|1959|1|
+517|517|standalone|1|Roads & Boats|1-99-00517|Ro|1999|1|
+518|518|standalone|1|Robber Knights|1-05-00518|Ro|2005|1|
+519|519|standalone|1|Robinson Crusoe: Adventures on the Cursed Island|1-12-00519|Ro|2012|1|
+520|520|standalone|1|Roll for the Galaxy|1-14-00520|Ro|2014|1|
+521|521|standalone|1|Roll Through the Ages: The Bronze Age|1-08-00521|Ro|2008|1|
+522|522|standalone|2|Rolling America|1-15-00522|Ro|2015|1|
+523|523|standalone|1|Roma|1-05-00523|Ro|2005|1|
+524|524|standalone|1|Room 25|1-13-00524|Ro|2013|1|
+525|525|standalone|1|Royal Palace|1-08-00525|Ro|2008|1|
+526|524|expansion|1|Room 25: Season 2|1-14-00526|Ro|2014|1|524
+527|527|standalone|1|Ruhrschifffahrt 1769-1890|1-12-00527|Ru|2012|1|
+528|528|standalone|1|Russian Railroads|1-13-00528|Ru|2013|1|
+529|529|standalone|2|Saboteur|1-04-00529|Sa|2004|1|
+530|530|standalone|2|Saga|1-04-00530|Sa|2004|1|
+531|531|standalone|1|Sagrada|1-17-00531|Sa|2017|1|
+532|532|standalone|1|Saint Malo|1-12-00532|Sa|2012|1|
+533|533|standalone|1|Samurai|1-98-00533|Sa|1998|1|
+534|534|standalone|1|Samurai Spirit|1-14-00534|Sa|2014|1|
+535|535|standalone|1|San Juan|1-04-00535|Sa|2004|1|
+536|536|standalone|1|San Marco|1-01-00536|Sa|2001|1|
+537|537|standalone|1|Santiago|1-03-00537|Sa|2003|1|
+538|538|standalone|1|Santorini|1-16-00538|Sa|2016|1|
+539|539|standalone|1|Schlock Mercenary: Capital Offensive|1-12-00539|Sc|2012|1|
+540|540|standalone|2|Scrabble Flash|1-10-00540|Sc|2010|1|
+541|541|standalone|1|Scythe|1-16-00541|Sc|2016|1|
+542|542|standalone|1|Seeland|1-10-00542|Se|2010|1|
+543|543|standalone|1|Senet|1-00-00543|Se|-3500|1|
+544|544|standalone|1|Sequence|1-82-00544|Se|1982|1|
+545|545|standalone|1|Serpent Stones|1-13-00545|Se|2013|1|
+546|546|standalone|1|Sewer Pirats|1-12-00546|Se|2012|1|
+547|547|standalone|1|Shadow Hunters|1-05-00547|Sh|2005|1|
+548|548|standalone|1|Shadows over Camelot|1-05-00548|Sh|2005|1|
+549|549|standalone|1|Shanghaien|1-08-00549|Sh|2008|1|
+550|548|expansion|1|Shadows over Camelot: Merlin's Company|1-08-00550|Sh|2008|1|548
+551|551|standalone|1|Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases|1-81-00551|Sh|1981|1|
+552|552|standalone|1|Sherlock Kids|1-13-00552|Sh|2013|1|
+553|553|standalone|1|Shogun|1-06-00553|Sh|2006|1|
+554|554|standalone|1|Show Manager|1-96-00554|Sh|1996|1|
+555|553|expansion|1|Shogun: Tenno's Court|1-11-00555|Sh|2011|1|553
+556|556|standalone|1|Shut the Box|1-50-00556|Sh|1750|1|
+557|557|standalone|1|Sid Meier's Civilization: The Board Game|1-10-00557|Si|2010|1|
+558|558|standalone|1|Signorie|1-15-00558|Si|2015|1|
+559|559|standalone|2|Skull & Roses|1-11-00559|Sk|2011|1|
+560|560|standalone|1|Sky Runner|1-99-00560|Sk|1999|1|
+561|561|standalone|2|Sleeping Queens|1-05-00561|Sl|2005|1|
+562|562|standalone|2|Slide 5|1-07-00562|Sl|2007|1|
+563|563|standalone|1|Small World|1-09-00563|Sm|2009|1|
+564|564|standalone|1|Snake Lake|1-06-00564|Sn|2006|1|
+565|565|standalone|1|Sons of Anarchy: Men of Mayhem|1-14-00565|So|2014|1|
+566|566|standalone|1|Sorry! Sliders|1-08-00566|So|2008|1|
+567|567|standalone|2|Space Beans|1-99-00567|Sp|1999|1|
+568|568|standalone|1|Space Sheep!|1-13-00568|Sp|2013|1|
+569|569|standalone|1|Splendor|1-14-00569|Sp|2014|1|
+570|429|expansion|1|Niagara: The Spirits of Niagara|1-06-00570|Sp|2006|1|429
+571|571|standalone|2|Spot it!|1-09-00571|Sp|2009|1|
+572|572|standalone|1|Spyfall|1-14-00572|Sp|2014|1|
+573|573|standalone|1|Spyrium|1-13-00573|Sp|2013|1|
+574|574|standalone|1|Star Wars: Imperial Assault|1-14-00574|St|2014|1|
+575|575|standalone|1|Starship Catan|1-01-00575|St|2001|1|
+576|576|expansion|1|Robinson Crusoe: Voyage of the Beagle|1-13-00576|Ro|2013|1|519
+577|577|standalone|1|The Staufer Dynasty|1-14-00577|St|2014|1|
+578|578|standalone|1|Steam|1-09-00578|St|2009|1|
+579|579|standalone|1|Steam Park|1-13-00579|St|2013|1|
+580|580|expansion|1|Steam Barons|1-09-00580|St|2009|1|578
+581|581|standalone|1|Steam Works|1-15-00581|St|2015|1|
+582|582|standalone|2|Sticheln|1-93-00582|St|1993|1|
+583|583|standalone|1|Stockpile|1-15-00583|St|2015|1|
+584|584|standalone|1|Stone Age|1-08-00584|St|2008|1|
+585|585|standalone|1|La Strada|1-04-00585|St|2004|1|
+586|586|expansion|1|Stone Age: The Expansion|1-11-00586|St|2011|1|584
+587|587|standalone|1|Stratego|1-44-00587|St|1944|1|
+588|588|standalone|1|Stronghold|1-09-00588|St|2009|1|
+589|589|standalone|1|A Study in Emerald (second edition)|1-15-00589|St|2015|1|
+590|590|standalone|1|Subdivision|1-14-00590|Su|2014|1|
+591|591|standalone|1|Suburbia|1-12-00591|Su|2012|1|
+592|592|standalone|1|Sudoku 2|1-12-00592|Su|2012|1|
+593|593|standalone|2|Dynasties|1-05-00593|Dy|2005|1|
+594|594|standalone|1|Sun, Sea & Sand|1-10-00594|Su|2010|1|
+595|595|standalone|1|Sunken City|1-04-00595|Su|2004|1|
+596|596|standalone|1|Sunrise City|1-12-00596|Su|2012|1|
+597|597|standalone|1|Survive: Escape from Atlantis!|1-82-00597|Su|1982|1|
+598|598|standalone|1|Survive: Space Attack!|1-15-00598|Su|2015|1|
+599|599|standalone|2|Sushi Go!|1-13-00599|Su|2013|1|
+600|600|standalone|1|Sylla|1-08-00600|Sy|2008|1|
+601|601|standalone|1|T.I.M.E Stories|1-15-00601|Ti|2015|1|
+602|602|expansion|1|T.I.M.E Stories: A Prophecy of Dragons|1-16-00602|Ti|2016|1|601
+603|603|expansion|1|T.I.M.E Stories: The Marcy Case|1-15-00603|Ti|2015|1|601
+604|604|expansion|1|T.I.M.E Stories: Under the Mask|1-16-00604|Ti|2016|1|601
+605|605|standalone|1|Taboo|1-89-00605|Ta|1989|1|
+606|606|standalone|2|TacDex: Pirates|1-14-00606|Ta|2014|1|
+607|607|standalone|1|Taj Mahal|1-00-00607|Ta|2000|1|
+608|608|standalone|1|Tales & Games: The Hare & the Tortoise|1-11-00608|Ta|2011|1|
+609|609|standalone|1|Tales of the Arabian Nights|1-09-00609|Ta|2009|1|
+610|610|standalone|1|Tempus|1-06-00610|Te|2006|1|
+611|611|standalone|1|Terakh: A Creative Strategy Game|1-05-00611|Te|2005|1|
+612|612|standalone|1|Terra Mystica|1-12-00612|Te|2012|1|
+613|612|expansion|1|Terra Mystica: Fire & Ice|1-14-00613|Te|2014|1|612
+614|614|standalone|1|Terra Nova|1-06-00614|Te|2006|1|
+615|615|standalone|1|Terraforming Mars|1-16-00615|Te|2016|1|
+616|615|expansion|1|Terraforming Mars: Hellas & Elysium|1-17-00616|Te|2017|1|615
+617|617|standalone|1|Rampage|1-13-00617|Ra|2013|1|
+618|618|standalone|1|Thebes|1-07-00618|Th|2007|1|
+619|619|standalone|1|Theseus: The Dark Orbit|1-13-00619|Th|2013|1|
+620|620|standalone|1|Through the Ages: A Story of Civilization|1-06-00620|Th|2006|1|
+621|621|standalone|1|Through the Desert|1-98-00621|Th|1998|1|
+622|622|standalone|1|Thunderbirds|1-15-00622|Th|2015|1|
+623|623|standalone|1|Thurn and Taxis|1-06-00623|Th|2006|1|
+624|624|standalone|1|Tichu|1-91-00624|Ti|1991|1|
+625|625|standalone|1|Ticket to Ride|1-04-00625|Ti|2004|1|
+626|626|standalone|1|Ticket to Ride: Europe|1-05-00626|Ti|2005|1|
+627|627|standalone|1|Ticket to Ride: Marklin|1-06-00627|Ti|2006|1|
+628|628|standalone|1|Tigris & Euphrates|1-97-00628|Ti|1997|1|
+629|629|standalone|1|Tikal|1-99-00629|Ti|1999|1|
+630|630|standalone|1|Tiki Topple|1-08-00630|Ti|2008|1|
+631|631|standalone|1|Timeline Challenge|1-15-00631|Ti|2015|1|
+632|632|standalone|1|Timeline: American History|1-14-00632|Ti|2014|1|
+633|633|standalone|1|Timeline: Americana|1-14-00633|Ti|2014|1|
+634|634|standalone|1|Timeline: Discoveries|1-11-00634|Ti|2011|1|
+635|635|standalone|1|Timeline: Diversity|1-12-00635|Ti|2012|1|
+636|636|standalone|1|Timeline: Music & Cinema|1-13-00636|Ti|2013|1|
+637|637|standalone|1|Tinners' Trail|1-08-00637|Ti|2008|1|
+638|638|standalone|2|Tiny Epic Galaxies|1-15-00638|Ti|2015|1|
+639|639|standalone|2|Tiny Epic Kingdoms|1-14-00639|Ti|2014|1|
+640|640|standalone|2|Tiny Epic Western|1-16-00640|Ti|2016|1|
+641|641|standalone|1|Tobago|1-09-00641|To|2009|1|
+642|642|standalone|1|Toboggans of Doom|1-08-00642|To|2008|1|
+643|643|standalone|1|Tokaido|1-12-00643|To|2012|1|
+644|644|standalone|1|Torres|1-99-00644|To|1999|1|
+645|645|standalone|1|Toscana|1-01-00645|To|2001|1|
+646|646|standalone|1|Tournay|1-11-00646|To|2011|1|
+647|647|standalone|1|Traders of Carthage|1-06-00647|Tr|2006|1|
+648|648|standalone|1|Tragedy Looper|1-11-00648|Tr|2011|1|
+649|649|standalone|1|Train of Thought|1-11-00649|Tr|2011|1|
+650|650|standalone|1|Trains|1-12-00650|Tr|2012|1|
+651|651|standalone|1|Trajan|1-11-00651|Tr|2011|1|
+652|652|standalone|1|Travel Blog|1-10-00652|Tr|2010|1|
+653|653|standalone|1|Tribune: Primus Inter Pares|1-07-00653|Tr|2007|1|
+654|654|standalone|1|Trickerion: Legends of Illusion|1-15-00654|Tr|2015|1|
+655|655|standalone|1|Trivial Pursuit: 2000s Edition|1-16-00655|Tr|2016|1|
+656|656|standalone|1|Trivial Pursuit: 20th Anniversary Edition|1-02-00656|Tr|2002|1|
+657|657|standalone|1|Trivial Pursuit: 90's Time Capsule Edition|1-04-00657|Tr|2004|1|
+658|658|standalone|1|Trivial Pursuit: Genus 5|1-00-00658|Tr|2000|1|
+659|659|standalone|1|Trivial Pursuit: Genus IV|1-96-00659|Tr|1996|1|
+660|660|standalone|1|Trivial Pursuit: Millennium Edition|1-99-00660|Tr|1999|1|
+661|661|standalone|1|Troyes|1-10-00661|Tr|2010|1|
+662|662|standalone|1|Tsuro|1-04-00662|Ts|2004|1|
+663|663|standalone|3|Tumblin-Dice|1-04-00663|Tu|2004|1|
+664|664|standalone|1|Twilight Struggle|1-05-00664|Tw|2005|1|
+665|665|standalone|2|Twist of Fate|1-16-00665|Tw|2016|1|
+666|666|standalone|1|Tzolk'in: The Mayan Calendar|1-12-00666|Tz|2012|1|
+667|666|expansion|1|Tzolk'in: The Mayan Calendar - Tribes & Prophecies|1-13-00667|Tz|2013|1|666
+668|668|standalone|1|Ubongo|1-03-00668|Ub|2003|1|
+669|669|standalone|1|Ugg-Tect|1-09-00669|Ug|2009|1|
+670|670|standalone|2|Unexploded Cow|1-01-00670|Un|2001|1|
+671|671|standalone|2|Unlock! The Tonipal's Treasure|1-17-00671|Un|2017|1|
+672|672|standalone|1|UNO|1-71-00672|UN|1971|1|
+673|673|standalone|1|Urban Sprawl|1-11-00673|Ur|2011|1|
+674|674|standalone|1|Valdora|1-09-00674|Va|2009|1|
+675|675|standalone|1|Vasco da Gama|1-09-00675|Va|2009|1|
+676|676|standalone|1|Il Vecchio|1-12-00676|Ve|2012|1|
+677|677|standalone|1|Vegas Showdown|1-05-00677|Ve|2005|1|
+678|678|standalone|1|Venture Forth|1-12-00678|Ve|2012|1|
+679|679|standalone|1|Vikings|1-07-00679|Vi|2007|1|
+680|680|standalone|1|Village|1-11-00680|Vi|2011|1|
+681|680|expansion|1|Village Inn|1-13-00681|Vi|2013|1|680
+682|682|standalone|1|Vinhos|1-10-00682|Vi|2010|1|
+683|683|standalone|1|VivaJava: The Coffee Game|1-12-00683|Vi|2012|1|
+684|684|standalone|1|The Voyages of Marco Polo|1-15-00684|Vo|2015|1|
+685|685|standalone|1|Drunter & Druber|1-91-00685|Dr|1991|1|
+686|686|standalone|1|Walnut Grove|1-11-00686|Wa|2011|1|
+687|687|standalone|1|Wars of the Roses: Lancaster vs. York|1-10-00687|Wa|2010|1|
+688|688|standalone|1|Wasabi!|1-08-00688|Wa|2008|1|
+689|689|standalone|1|Web of Power|1-00-00689|We|2000|1|
+690|690|standalone|2|Welcome to the Dungeon|1-13-00690|We|2013|1|
+691|691|standalone|2|The Werewolves of Miller's Hollow|1-01-00691|We|2001|1|
+692|692|standalone|1|WildLife|1-02-00692|Wi|2002|1|
+693|693|standalone|1|Wings of War: Famous Aces|1-04-00693|Wi|2004|1|
+694|694|standalone|1|Wiraqocha|1-11-00694|Wi|2011|1|
+695|695|standalone|1|Witch's Brew|1-08-00695|Wi|2008|1|
+696|696|standalone|1|Witness|1-14-00696|Wi|2014|1|
+697|697|standalone|1|Wits & Wagers|1-05-00697|Wi|2005|1|
+698|698|standalone|2|Woven in Myth|1-16-00698|Wo|2016|1|
+699|699|standalone|1|Xanth|1-91-00699|Xa|1991|1|
+700|700|standalone|1|Yamatai|1-17-00700|Ya|2017|1|
+701|701|standalone|1|Yokohama|1-16-00701|Yo|2016|1|
+702|702|standalone|1|Ys|1-04-00702|Ys|2004|1|
+703|702|expansion|1|Ys+|1-05-00703|Ys|2005|1|702
+704|704|standalone|1|Yspahan|1-06-00704|Ys|2006|1|
+705|705|standalone|1|Yunnan|1-13-00705|Yu|2013|1|
+706|706|standalone|1|Zertz|1-99-00706|Ze|1999|1|
+707|707|standalone|1|ZhanGuo|1-14-00707|Zh|2014|1|
+708|708|standalone|1|Zoff im Huhnerhof|1-06-00708|Zo|2006|1|
+709|709|standalone|1|Zombicide|1-12-00709|Zo|2012|1|
+710|710|standalone|1|Zombicide Season 2: Prison Outbreak|1-13-00710|Zo|2013|1|
+711|711|expansion|1|Mare Nostrum: Resource Chips|1-16-00711|Ma|2016|1|386
+712|712|standalone|1|Zooloretto|1-07-00712|Zo|2007|1|
+713|713|standalone|1|Clue|1-49-00713|Cl|1949|1|
+714|714|standalone|1|Creationary|1-09-00714|Cr|2009|1|
+715|715|standalone|1|The Dangerous Book for Boys Game|1-08-00715|Da|2008|1|
+716|716|standalone|2|Hanabi (Cards)|1-10-00716|Ha|2010|1|
+717|717|standalone|2|NOIR: Deductive Mystery Game|1-12-00717|No|2012|1|
+718|718|standalone|2|Oh My Goods!|1-15-00718|Oh|2015|1|
+719|719|standalone|2|Super Squadimals|1-16-00719|Su|2016|1|
+720|720|standalone|2|Cranium Zigity|1-04-00720|Cr|2004|1|
+721|721|standalone|1|Heaven & Ale|1-17-00721|He|2017|1|
+722|722|standalone|1|Majesty: For the Realm|1-17-00722|Ma|2017|1|
+723|723|standalone|3|Crokinole - Jose's Board|1-76-00723|Cr|1876|1|
+724|724|standalone|3|Bocce Ball|1-00-00724|Bo|1000|1|
+725|725|standalone|1|Gold Am Orinoko|1-13-00725|Go|2013|1|
+726|726|standalone|1|El Grande|1-95-00726|Gr|1995|1|
+727|727|standalone|1|Queen's Necklace|1-03-00727|Qu|2003|1|
+728|728|standalone|1|Kingsburg|1-07-00728|Ki|2007|1|
+729|729|standalone|1|Caverna: Cave vs Cave|1-17-00729|Ca|2017|1|
+730|730|standalone|1|Camel Up|1-14-00730|Ca|2014|1|
+731|730|expansion|1|Camel Up: Supercup|1-15-00731|Ca|2015|1|730
+732|732|standalone|1|Conquest of the Empire|1-05-00732|Co|2005|1|
+733|733|standalone|1|Castellan (Green & Gold)|1-13-00733|Ca|2013|1|
+734|734|standalone|1|Codenames|1-15-00734|Co|2015|1|
+735|735|standalone|1|Codenames: Pictures|1-16-00735|Co|2016|1|
+736|736|standalone|1|Codenames Duet|1-17-00736|Co|2017|1|
+737|737|standalone|1|Codenames: Deep Undercover|1-16-00737|Co|2016|1|
+738|738|standalone|1|Elysium|1-15-00738|El|2015|1|
+739|739|standalone|1|Manila|1-05-00739|Ma|2005|1|
+740|740|standalone|1|Money|1-99-00740|Mo|1999|1|
+741|741|standalone|1|Saint Petersburgh (second edition)|1-14-00741|Sa|2014|1|
+742|742|standalone|2|Oh, Pharaoh!|1-04-00742|Oh|2004|1|
+743|743|standalone|2|Intervention|1-14-00743|In|2014|1|
+744|744|standalone|2|The Grizzled|1-15-00744|Gr|2015|1|
+745|745|standalone|1|Arkham Horror: The Card Game|1-16-00745|Ar|2016|1|
+746|746|standalone|1|Pioneers|1-17-00746|Pi|2017|1|
+747|747|standalone|1|Azul|1-17-00747|Az|2017|1|
+748|748|standalone|2|Treacery In a Pocket|1-17-00748|Tr|2017|1|
+749|749|standalone|2|Bye-Bye Black Sheep|1-17-00749|By|2017|1|
+750|750|standalone|2|Fish & Ships|1-17-00750|Fi|2017|1|
+751|751|standalone|2|Hack Trick|1-17-00751|Ha|2017|1|
+752|752|standalone|2|Riddler|1-17-00752|Ri|2017|1|
+753|753|standalone|2|Baby Cruise|1-17-00753|Ba|2017|1|
+754|754|standalone|1|Babylon Tower Builders|1-17-00754|Ba|2017|1|
+755|755|standalone|1|Touch Down!|1-17-00755|To|2017|1|
+756|756|standalone|1|Battlefold|1-17-00756|Ba|2017|1|
+757|757|standalone|1|Mountains of Madness|1-17-00757|Mo|2017|1|
+758|615|expansion|1|Terraforming Mars: Venus Next|1-17-00758|Te|2017|1|615
+759|759|standalone|1|Edge of Humanity|1-17-00759|Ed|2017|1|
+760|760|standalone|1|First Martians: Adventures on the Red Planet|1-17-00760|Fi|2017|1|
+761|388|expansion|1|Mare Nostrum: Buildings|1-16-00761|Ma|2016|1|388
+762|762|expansion|1|Mare Nostrum: Large Map|1-16-00762|Ma|2016|1|386
